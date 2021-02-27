@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bernabe.mattia.4j.giocoDiCarte", "bernabe.mattia.4j.giocoDiCarte\bernabe.mattia.4j.giocoDiCarte.csproj", "{109B7673-0E21-4114-935E-0B8581AFA052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{109B7673-0E21-4114-935E-0B8581AFA052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109B7673-0E21-4114-935E-0B8581AFA052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109B7673-0E21-4114-935E-0B8581AFA052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109B7673-0E21-4114-935E-0B8581AFA052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F90004DE-05ED-4965-A507-89C7C8161C4B}
+	EndGlobalSection
+EndGlobal
